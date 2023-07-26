@@ -8,7 +8,6 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by IntelliJ IDEA.
  *
  * @Author : mft
  * @create 2023/7/26 13:12
